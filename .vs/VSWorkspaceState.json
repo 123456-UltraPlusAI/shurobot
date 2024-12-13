@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\brain",
+    "\\src\\brain\\config",
+    "\\src\\brain\\include",
+    "\\src\\brain\\include\\utils",
+    "\\src\\brain\\src",
+    "\\src\\interface\\booster_interface\\msg"
+  ],
+  "SelectedNode": "\\src\\brain",
+  "PreviewInSolutionExplorer": false
+}
